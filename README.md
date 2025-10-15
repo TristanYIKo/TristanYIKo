@@ -7,14 +7,13 @@
 
 ## 🧠 About Me
 
-I'm interested in building tools that connect **engineering, data, and business** — from analytics dashboards to automation scripts.  
+I'm interested in building tools that connect **engineering, data, and business**.  
 Outside of school and coding, I enjoy staying active and exploring new ideas.
 
-- 🥋 Taekwondo black belt & lifelong martial artist  
+- 🥋 Taekwondo black belt   
 - 🏌️‍♂️ Golf enthusiast  
 - 🎮 Gamer and indie game developer  
 - 📈 Interested in **investing**, **crypto**, and financial systems  
-- 💡 Currently learning more about **Next.js**, **APIs**, and **data visualization**
 
 ---
 
@@ -30,9 +29,6 @@ Outside of school and coding, I enjoy staying active and exploring new ideas.
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/tristan-ko)  
-- [Portfolio Website](https://your-portfolio-link.vercel.app)  
-- [Email](mailto:tristanko@uwaterloo.ca)
+- [Email](mailto:tristanko1116@gmail.com)
 
----
 
-⭐ *Always building something new — whether it's code, skills, or habits.*
