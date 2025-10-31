@@ -17,15 +17,6 @@ Outside of school and coding, I enjoy staying active and exploring new ideas.
 
 ---
 
-## ⚙️ Tech Stack
-
-- **Languages:** Python, Java, TypeScript, SQL  
-- **Frameworks:** Next.js, React, Tailwind CSS  
-- **Tools:** Git, Excel, Power BI, Node.js  
-- **Interests:** Finance, AI, automation, product design
-
----
-
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/tristan-ko)  
