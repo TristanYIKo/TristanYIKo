@@ -11,7 +11,6 @@ I'm interested in building tools that connect **engineering, data, and business*
 Outside of school and coding, I enjoy staying active and exploring new ideas.
 
 - 🥋 Taekwondo black belt   
-- 🏌️‍♂️ Golf enthusiast  
 - 🎮 Gamer and indie game developer  
 - 📈 Interested in **investing**, **crypto**, and financial systems  
 
