@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tristan Ko
 
-🎓 2nd-Year **Management Engineering** student at the **University of Waterloo**  
+🎓 3rd-Year **Management Engineering** student at the **University of Waterloo**  
 💻 Passionate about **technology, investing, and automation**
 
 ---
